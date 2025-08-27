@@ -2,7 +2,7 @@
 
 > **Cypherpunk dead-drop for one-shot payloads. No accounts, no logs, no metadata (by design), zero server-held keys, and retrieve-once semantics.**
 
-[![License: MIT OR Apache-2.0](https://img.shields.io/badge/License-MIT%20OR%20Apache--2.0-blue.svg)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Rust](https://img.shields.io/badge/rust-2021-orange.svg)](https://www.rust-lang.org)
 [![Security: Experimental](https://img.shields.io/badge/security-experimental-red.svg)](#security-warnings)
 
