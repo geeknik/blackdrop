@@ -3,7 +3,7 @@
 > **Cypherpunk dead-drop for one-shot payloads. No accounts, no logs, no metadata (by design), zero server-held keys, and retrieve-once semantics.**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Rust](https://img.shields.io/badge/rust-2021-orange.svg)](https://www.rust-lang.org)
+[![Rust](https://img.shields.io/badge/rust-1,75+-orange.svg)](https://www.rust-lang.org)
 [![Security: Experimental](https://img.shields.io/badge/security-experimental-red.svg)](#security-warnings)
 
 Blackdrop is an end-to-end encrypted dead-drop system for securely sharing ephemeral data between parties. It implements aggressive metadata minimization, retrieve-once semantics, and operates over Tor by default for maximum privacy.
