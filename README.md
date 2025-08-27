@@ -48,9 +48,9 @@ The server acts as a **blind storage node** that cannot decrypt, index, or meani
 
 ### Prerequisites
 
-- **Rust 1.75+** (2021 edition)
-- **Tor daemon** (for network privacy)
-- **Linux/macOS** (Windows support planned)
+- **Rust 1.75+** 
+- **Tor daemon** 
+- **Linux/macOS** (Fuck Windows)
 
 ### Building from Source
 
