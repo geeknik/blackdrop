@@ -261,19 +261,10 @@ cargo audit
 
 ## License
 
-Licensed under either of:
-
-- Apache License, Version 2.0 ([LICENSE-APACHE](LICENSE-APACHE) or http://www.apache.org/licenses/LICENSE-2.0)
-- MIT License ([LICENSE-MIT](LICENSE-MIT) or http://opensource.org/licenses/MIT)
-
-at your option.
+- [MIT](LICENSE)
 
 ## Disclaimer
 
 This software is provided "as is" without warranty. The authors are not responsible for any damages resulting from use. Blackdrop is designed for legitimate privacy protection - users are responsible for compliance with local laws.
 
 **Do not rely on Blackdrop to protect against compromised endpoints or negligent OPSEC.**
-
----
-
-*For detailed design documentation, see [DESIGN.md](DESIGN.md)*
